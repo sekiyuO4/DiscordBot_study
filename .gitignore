@@ -1,0 +1,17 @@
+.venv/
+.uv-cache/
+__pycache__/
+.env
+studyroom.db
+*.pyc
+.env
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env.*
+DiscordBot_backup_20261003/
+*.zip
